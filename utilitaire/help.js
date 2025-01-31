@@ -77,7 +77,6 @@ module.exports = {
     **\`${pf}find <membre>\`**
     **\`${pf}serveur <info/pic/banner>\`**
     **\`${pf}snipe\`**
-    **\`${pf}support\`**
     **\`${pf}wiki <mot-clé>\`**
     **\`${pf}vc\`**
     **\`${pf}bypass\`**
